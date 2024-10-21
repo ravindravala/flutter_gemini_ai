@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070796080069",
+    "project_id": "flutter-gemini-ai-bd8e2",
+    "storage_bucket": "flutter-gemini-ai-bd8e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070796080069:android:848174f9b2af6869bbc1ac",
+        "android_client_info": {
+          "package_name": "com.flutter.gemini_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhyNfd4MwEpNAgXiyOXdBghBMGG-LG8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
