@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAVhyNfd4MwEpNAgXiyOXdBghBMGG-LG8s',
+    apiKey: 'AIzaSyAIRyuplQuayoUaVY-ApGE--Im_eS-xEMY',
     appId: '1:1070796080069:android:848174f9b2af6869bbc1ac',
     messagingSenderId: '1070796080069',
     projectId: 'flutter-gemini-ai-bd8e2',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDylaZBRgY_NT_hVHeTM3uLc4ySHPx6fys',
+    apiKey: 'AIzaSyB3P1h9ur40Ti0qgptYRowD6w0iMK6MphQ',
     appId: '1:1070796080069:ios:072928e2ac005112bbc1ac',
     messagingSenderId: '1070796080069',
     projectId: 'flutter-gemini-ai-bd8e2',
