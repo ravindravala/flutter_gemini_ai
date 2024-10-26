@@ -1,6 +1,10 @@
-# Gemini AI Flutter Demo
+# Gemini AI with Flutter
 
-A demo project showcasing the capabilities of the Gemini AI using Flutter.
+A project showcasing the capabilities of the Gemini AI using Flutter.
+
+## Screenshots
+
+<img src="https://github.com/ravindravala/flutter_gemini_ai/blob/main/screenshots/Screenshot%202024-10-26%20at%204.23.39%E2%80%AFPM.png" alt="Screenshot of Gemini AI Demo" width="300"/><img src="https://github.com/ravindravala/flutter_gemini_ai/blob/main/screenshots/Screenshot%202024-10-26%20at%204.24.25%E2%80%AFPM.png" alt="Another Screenshot of Gemini AI Demo" width="300"/>
 
 ## Getting Started
 
